@@ -6,8 +6,7 @@ File di riepilogo dei principali meccanismi di RegEx con PHP
 
 Funzione|Cosa fa
 --------|-------
-**preg_match()**|*Esegui una corrispondenza con espressioni regolari.*
-
+preg_match()|Esegui una corrispondenza con espressioni regolari.
 preg_match_all()|Eseguire una corrispondenza di espressioni regolari globali.
 
 **preg_replace()**|Eseguire una ricerca e sostituzione di espressioni regolari.
